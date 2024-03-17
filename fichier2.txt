@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DEC9-F489
+
+ Directory of C:\Users\wail-\app1
+
+03/17/2024  10:29 PM    <DIR>          .
+03/17/2024  10:29 PM    <DIR>          ..
+03/17/2024  10:29 PM               346 fichier1.txt
+03/17/2024  10:29 PM                 0 fichier2.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  58,142,539,776 bytes free
